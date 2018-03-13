@@ -1,6 +1,6 @@
 A docker container built upon Ubuntu 16.04. This has the following environments installed
 
-- nvm 0.33.8(https://github.com/creationix/nvm)
+- [nvm 0.33.8](https://github.com/creationix/nvm)
 - python
 - python3
 
